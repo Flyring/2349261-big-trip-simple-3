@@ -25,17 +25,17 @@
     "eslint-config-htmlacademy": "8.0.0",
     "style-loader": "3.3.1",
     "webpack": "5.75.0",
-    "webpack-cli": "^5.0.0",
-    "webpack-dev-server": "^4.11.1"
+    "webpack-cli": "5.0.0",
+    "webpack-dev-server": "4.11.1"
   },
   "engines": {
     "node": "18"
   },
   "dependencies": {
-    "build": "^0.1.4",
-    "dayjs": "^1.11.7",
+    "build": "0.1.4",
+    "dayjs": "1.11.6",
     "flatpickr": "4.6.13",
-    "he": "^1.2.0",
-    "nanoid": "^4.0.2"
+    "he": "1.2.0",
+    "nanoid": "4.0.2"
   }
 }
